@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">News</string>
+    <string name="image">News</string>
+    <string name="title">Aprenda sobre edição de imagens</string>
+    <string name="date">27/02/2022</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+    <string name="author">Arthur Medeiros</string>
+    <string name="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet sagittis dolor. In varius ligula nunc, eu ultricies dolor interdum nec. Morbi pretium sollicitudin magna, ac vulputate ante tempor tempus. Etiam vel feugiat tellus, non luctus ipsum. Nullam ultrices dui ut eros maximus, quis aliquet turpis tempor. Nunc tempor sapien in gravida auctor. Vestibulum iaculis, erat gravida pellentesque mollis, leo libero elementum magna, eget ullamcorper purus nisl et lorem.</string>
 </resources>
